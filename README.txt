@@ -1,0 +1,1 @@
+In  Project1.py it demonstrates forward and reverse A* on a 101*101 grid. The program randomly chooses a starting location and goal location. Then it uses the A* algorithm to find the location of the goal.
